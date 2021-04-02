@@ -1,8 +1,8 @@
 # Hi, I'm Jerop 👋🏾
 
-I'm a Software Engineer at [Google](https://about.google/) working on [Cloud CI/CD](https://cloud.google.com/docs/ci-cd), specifically contributing to the [Tekton Project](https://cloud.google.com/tekton). Previously, I was a Software Engineer at [HubSpot](https://www.hubspot.com/) working on [platform infrastructure](https://product.hubspot.com/blog/infrastructure-as-code-getting-the-best-of-both-worlds-with-aws-and-google-cloud-platform). Prior to that, I was an undergraduate student at [Massachusetts Institute of Technology](https://www.mit.edu/) majoring in [Electrical Engineering and Computer Science](https://www.eecs.mit.edu/).
+I'm a Software Engineer at [Google](https://about.google/) working on [Cloud CI/CD](https://cloud.google.com/docs/ci-cd), specifically the [Tekton Project](https://cloud.google.com/tekton). I graduated from [Massachusetts Institute of Technology](https://www.mit.edu/) with a BSc in [Electrical Engineering and Computer Science](https://www.eecs.mit.edu/).
 
-- 🎙 Upcoming talk: [Conditional Constructs to the Rescue](https://cdcon2020.sched.com/event/e2OG) at [cdCon](https://events.linuxfoundation.org/cdcon/)
+- 🎙 Upcoming talk: [The 5-Step Checklist for your Migration to Tekton](https://sched.co/iAXD) at [cdCon](https://events.linuxfoundation.org/cdcon/)
 - 💼 Sharing updates on <a href="https://www.linkedin.com/in/jerop/">LinkedIn</a>
 - 😄 Pronouns: she/her
 
