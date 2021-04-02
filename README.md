@@ -1,9 +1,13 @@
 # Hi, I'm Jerop 👋🏾
 
-I'm a Software Engineer at [Google](https://about.google/) working on [Cloud CI/CD](https://cloud.google.com/docs/ci-cd), specifically the [Tekton Project](https://cloud.google.com/tekton). I graduated from [Massachusetts Institute of Technology](https://www.mit.edu/) with a BSc in [Electrical Engineering and Computer Science](https://www.eecs.mit.edu/).
+I'm a Software Engineer at [Google](https://about.google/) working on [Cloud CI/CD](https://cloud.google.com/docs/ci-cd), specifically the [Tekton Project](https://cloud.google.com/tekton)
 
 - 🎙 Upcoming talk: [The 5-Step Checklist for your Migration to Tekton](https://sched.co/iAXD) at [cdCon](https://events.linuxfoundation.org/cdcon/)
 - 💼 Sharing updates on <a href="https://www.linkedin.com/in/jerop/">LinkedIn</a>
+- 🏫 [Massachusetts Institute of Technology](https://www.mit.edu/) 
+- 📚 [Electrical Engineering and Computer Science](https://www.eecs.mit.edu/)
+- 📍 New York, New York
+- 🏡 Eldoret, Kenya
 - 😄 Pronouns: she/her
 
 <!--
