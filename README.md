@@ -1,6 +1,6 @@
 # Hi, I'm Jerop 👋🏾
 
-I'm a Software Engineer at [Google](https://about.google/) working on [Cloud CI/CD](https://cloud.google.com/docs/ci-cd), specifically the [Tekton Project](https://cloud.google.com/tekton)
+I'm a Software Engineer at [Google](https://about.google/) working on [Cloud-Native CI/CD](https://cloud.google.com/docs/ci-cd) as a Maintainer in the [Tekton](https://cloud.google.com/tekton) project.
 
 - 🎙 Upcoming talk: N/A
 - 💼 Sharing updates on <a href="https://www.linkedin.com/in/jerop/">LinkedIn</a>
