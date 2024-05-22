@@ -1,12 +1,11 @@
-# Hi, I'm Jerop 👋🏾
+## Bio
 
-I'm a Senior Software Engineer at [Google](https://about.google/) working on [Cloud-Native CI/CD](https://cloud.google.com/docs/ci-cd) as a Maintainer and Governing Board Member in the [Tekton](https://cloud.google.com/tekton) project.
+I'm a Senior Software Engineer at [Google](https://about.google/) working on [Cloud-Native CI/CD](https://cloud.google.com/docs/ci-cd) as a Maintainer and Governing Board Member of the [Tekton](https://cloud.google.com/tekton) project.
 
 - 💼 Sharing updates on <a href="https://www.linkedin.com/in/jerop/">LinkedIn</a>
 - 🏫 [Massachusetts Institute of Technology](https://www.mit.edu/) 
 - 📚 [Electrical Engineering and Computer Science](https://www.eecs.mit.edu/)
 - 📍 New York, New York
-- 🏡 Eldoret, Kenya
 
 ## 🎙 Talks
 
