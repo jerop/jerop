@@ -2,9 +2,9 @@
 
 I'm a Senior Software Engineer at [Google](https://about.google/) working on [Code Assist](https://codeassist.google/products/business). I'm also a Maintainer and Governing Board Member of the [Tekton](https://cloud.google.com/tekton) opensource project.
 
-- 💼 Connect with me on <a href="https://www.linkedin.com/in/jerop/">LinkedIn</a>
 - 📚 [EECS](https://www.eecs.mit.edu/) @ [Massachusetts Institute of Technology](https://www.mit.edu/) 
 - 📍 New York, New York
+- 💼 Connect with me on <a href="https://www.linkedin.com/in/jerop/">LinkedIn</a>
 
 ## 🎙 Talks
 
