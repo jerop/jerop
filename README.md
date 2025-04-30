@@ -10,7 +10,7 @@ I'm a Senior Software Engineer at [Google](https://about.google/) working on [Co
 
 | Date           | Title                                                                    | Event                              | Links                                                                 |
 |----------------|--------------------------------------------------------------------------|------------------------------------|-----------------------------------------------------------------------|
-| April 2025     | Accelerate your software development lifecycle with a multi-agent platform | Google Cloud Next                |                                                                       |
+| April 2025     | Accelerate your software development lifecycle with a multi-agent platform | Google Cloud Next                | [Recording](https://www.youtube.com/watch?v=MgJq4bnJ3F8&t=1105s)      |
 | March 2024     | The Chain of Trust: Towards SLSA L3 with Tekton Trusted Artifacts        | KubeCon                            | [Recording](https://sched.co/1YeNY)                                   |
 | June 2023      | Ephemeral Execution Is the Future of Computing, but What About the Data? | QCon by InfoQ                      | [Recording](https://www.infoq.com/presentations/tekton-data/)         |
 | February 2022  | Cloud Native Continuous Delivery on Kubernetes with Tekton               | InfoQ Live                         | [Recording](https://www.infoq.com/presentations/tekton-cloud-native/) |
