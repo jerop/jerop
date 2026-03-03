@@ -1,6 +1,6 @@
 ## Bio
 
-I'm a Senior Software Engineer at [Google](https://about.google/) working on [Code Assist](https://codeassist.google/products/business). I'm also a Maintainer and Governing Board Member of the [Tekton](https://cloud.google.com/tekton) open source project.
+I'm a Staff Software Engineer at [Google](https://about.google/) working on [Gemini CLI](https://geminicli.com/). I'm also a Maintainer and Governing Board Member of the [Tekton](https://cloud.google.com/tekton) open source project.
 
 - 📚 [EECS](https://www.eecs.mit.edu/) @ [Massachusetts Institute of Technology](https://www.mit.edu/) 
 - 📍 New York, New York
