@@ -2,7 +2,9 @@
 
 I'm a Staff Software Engineer at [Google](https://about.google/) working on [Gemini CLI](https://geminicli.com/). I'm also a Maintainer and Governing Board Member of the [Tekton](https://cloud.google.com/tekton) open source project.
 
-🎓 [EECS](https://www.eecs.mit.edu/) @ [MIT](https://www.mit.edu/) &nbsp;·&nbsp; 📍 New York &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/jerop/)
+- 🎓 [EECS](https://www.eecs.mit.edu/) @ [MIT](https://www.mit.edu/)
+- 📍 New York
+- 💼 [LinkedIn](https://www.linkedin.com/in/jerop/)
 
 ---
 
