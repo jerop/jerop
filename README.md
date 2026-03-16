@@ -16,6 +16,7 @@ I'm a Staff Software Engineer at [Google](https://about.google/) working on [Gem
 
 ## 🎙 Talks
 
+- [**Automate issue triage & pull request reviews with Gemini CLI GitHub Action**](https://www.youtube.com/watch?v=yZR3isciWd8)
 - [**Accelerate your software development lifecycle with a multi-agent platform**](https://www.youtube.com/watch?v=MgJq4bnJ3F8&t=1105s) — _Google Cloud Next, April 2025_
 - [**The Chain of Trust: Towards SLSA L3 with Tekton Trusted Artifacts**](https://sched.co/1YeNY) — _KubeCon, March 2024_
 - [**Ephemeral Execution Is the Future of Computing, but What About the Data?**](https://www.infoq.com/presentations/tekton-data/) — _QCon by InfoQ, June 2023_
