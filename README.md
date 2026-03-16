@@ -6,6 +6,14 @@ I'm a Staff Software Engineer at [Google](https://about.google/) working on [Gem
 - 📍 New York, New York
 - 💼 Connect with me on <a href="https://www.linkedin.com/in/jerop/">LinkedIn</a>
 
+## 📝 Blogs
+
+| Title                                                                                                                                                                         | Publisher              |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|
+| [Plan Mode Now Available in Gemini CLI](https://developers.googleblog.com/plan-mode-now-available-in-gemini-cli/)                                                             | Google Developers Blog |
+| [Instant Insights: Gemini CLI's New Pre-configured Monitoring Dashboards](https://cloud.google.com/blog/topics/developers-practitioners/instant-insights-gemini-clis-new-pre-configured-monitoring-dashboards/) | Google Cloud Blog      |
+| [Introducing Gemini CLI GitHub Actions](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-cli-github-actions/)                              | The Keyword            |
+
 ## 🎙 Talks
 
 | Date           | Title                                                                    | Event                              | Links                                                                 |
